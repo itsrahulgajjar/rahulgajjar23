@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul Gajjar
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Data Scince
+- 🌱 I’m currently learning Data Science
 
 
 <!---
