@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul Gajjar
-- 👀 I’m interested in Full Stack devlopment
-- 🌱 I’m currently learning Full Stack
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Data Scince
 
 
 <!---
